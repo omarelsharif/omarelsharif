@@ -1,3 +1,4 @@
+# 💫 About Me:
 ⚡ GDSC member<br>🤝 Looking to collaborate on Python projects<br>💬 Chat with me about computer science!<br>📫 How to reach me: elsharifomar293@gmail.com<br> 
 
 # 💻 Tech Stack:
