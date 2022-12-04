@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on on a tax-loss harvesting investment app<br>🤝 I’m looking to collaborate on Python projects <br>👀 I’m looking for help with finding internships <br>🌱 I’m currently learning more about Software Engineering<br>💬 Ask me about Python or any tech-related stuff.<br>📫 How to reach me: ed7921@wayne.edu<br>⚡ Fun fact: NASA Still operates some projects on code from the 70's
+🔭 I’m currently working on on a tax-loss harvesting investment app<br>🤝 I’m looking to collaborate on Python projects <br>🌱 I’m currently learning more about Software Engineering<br>💬 Ask me about Python or any tech-related stuff.<br>📫 How to reach me: ed7921@wayne.edu<br>⚡ Fun fact: NASA Still operates some projects on code from the 70's
 
 
 # 💻 Tech Stack:
