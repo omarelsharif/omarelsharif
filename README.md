@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Google Developers Student Club Technical Lead member<br>🛠 Passionate about building cool things!<br>💬 Chat with me about computer science!<br>📫 How to reach me: elsharifomar293@gmail.com<br> 
+⚡ Google Developers Student Club Technical Lead<br>🛠 Passionate about building cool things!<br>💬 Chat with me about computer science!<br>📫 How to reach me: elsharifomar293@gmail.com<br> 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
