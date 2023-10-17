@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡ Google Developers Student Club Workshop Lead<br>🛠 I made my profile picture with generative AI!<br>💬 Chat with me about computer science!<br>📫 How to reach me: elsharifomar293@gmail.com<br> 
+⚡ Google Developers Student Club Workshop Lead<br>💬 Chat with me about computer science!<br>📫 How to reach me: elsharifomar293@gmail.com<br> 
 
 # 💻 Tech Stack and Technologies:
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social) 
